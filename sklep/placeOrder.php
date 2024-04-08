@@ -24,7 +24,7 @@ require_once "basketHandle.php";
 
 <html>
 <head>
-<title>P & M Hardware Store</title>
+<title>Hardware Store</title>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -46,7 +46,7 @@ require_once "basketHandle.php";
 <header>
 <div class="parent" id="top">
 	<div id="h_bg"><img src="img/bgmain2.jpg"/></div>
-	<div id="h_title">Paweł & Mateusz Hardware Store</div>
+	<div id="h_title">Paweł Hardware Store</div>
 </div>
 
 </header>
@@ -331,7 +331,7 @@ function diffCheck(e){
 </div> <!--content-->
 
 <footer>
-	<?php echo "Markowiak & Sołtysiak &copy ".date("Y-m-d");?>
+	<?php echo "Markowiak &copy ".date("Y-m-d");?>
 </footer>
 </body>
 

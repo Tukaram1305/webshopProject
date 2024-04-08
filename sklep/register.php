@@ -110,7 +110,7 @@ if (isset($_POST['name']))
 <header>
 <div class="parent" id="top">
 	<div id="h_bg"><img src="img/bgmain2.jpg"/></div>
-	<div id="h_title">Paweł & Mateusz Hardware Store</div>
+	<div id="h_title">Paweł Hardware Store</div>
 </div>
 
 </header>
@@ -235,7 +235,7 @@ else if ($_SESSION['blad']=="log")
 </div> <!--content-->
 
 <footer>
-	<?php echo "Markowiak & Sołtysiak &copy ".date("Y-m-d");?>
+	<?php echo "Markowiak &copy ".date("Y-m-d");?>
 </footer>
 </body>
 

@@ -23,7 +23,7 @@ if (isset($_POST['logout']))
 
 <html>
 <head>
-<title>P & M Hardware Store</title>
+<title>Hardware Store</title>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -207,7 +207,7 @@ counter.innerHTML = ncount
 </div> <!--content-->
 
 <footer>
-	<?php echo "Markowiak & Sołtysiak &copy ".date("Y-m-d");?>
+	<?php echo "Markowiak &copy ".date("Y-m-d");?>
 </footer>
 </body>
 

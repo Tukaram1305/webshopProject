@@ -49,7 +49,7 @@ require_once "basketHandle.php";
 <header>
 <div class="parent" id="top">
 	<div id="h_bg"><img src="img/bgmain2.jpg"/></div>
-	<div id="h_title">Paweł & Mateusz Hardware Store</div>
+	<div id="h_title">Paweł Hardware Store</div>
 </div>
 
 </header>
@@ -232,7 +232,7 @@ if (isset($_SESSION['zalogowany']) && $_SESSION['zalogowany']==true)
 ?>
 
 <footer>
-	<?php echo "Markowiak & Sołtysiak &copy ".date("Y-m-d");?>
+	<?php echo "Markowiak &copy ".date("Y-m-d");?>
 </footer>
 </body>
 

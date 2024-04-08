@@ -401,7 +401,7 @@ $conn->close();
 
 
 <footer>
-	<?php echo "Markowiak & Sołtysiak &copy ".date("Y-m-d");?>
+	<?php echo "Markowiak &copy ".date("Y-m-d");?>
 </footer>
 </body>
 
